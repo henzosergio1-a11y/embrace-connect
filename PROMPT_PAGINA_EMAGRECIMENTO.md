@@ -19,6 +19,17 @@ Criar e evoluir a página **VivaLeve** como uma experiência moderna de saúde, 
 - Produtos ou suplementos apresentados como solução rápida.
 - Linguagem que associe valor pessoal ou beleza a um determinado corpo.
 
+## Imagem principal
+Adicionar no **hero** uma fotografia/ilustração de uma **mulher adulta**, com aparência natural e expressão confiante, associada a saúde e bem-estar.
+
+A imagem deve:
+- Integrar-se visualmente ao layout rosa + azul.
+- Ter enquadramento profissional e iluminação agradável.
+- Evitar foco em padrões corporais, sensualização ou comparação física.
+- Funcionar bem em desktop e mobile.
+- Usar uma imagem apropriada para um site público e, se possível, uma fonte com licença adequada.
+- Se não houver um ficheiro local, o Lovable pode gerar ou selecionar uma imagem adequada para o design.
+
 ## Design atual
 A identidade visual deve usar principalmente **rosa + azul**, mantendo um visual limpo, moderno e acessível.
 
@@ -32,7 +43,7 @@ Sugestão de direção visual:
 - Contraste e estados de foco adequados para acessibilidade.
 
 ## Estrutura sugerida
-1. Hero com uma mensagem forte sobre saúde e bem-estar.
+1. Hero com uma mensagem forte sobre saúde e bem-estar e uma imagem de mulher adulta.
 2. Explicação simples de como a experiência funciona.
 3. Hábitos saudáveis apresentados em cards.
 4. Benefícios relacionados a energia, rotina, sono e bem-estar.
