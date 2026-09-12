@@ -1,4 +1,9 @@
-# Prompt da página de emagrecimento — VivaLeve
+# COMANDO PARA O LOVABLE — VIVALLEVE
+
+## Ação imediata
+**LOVABLE: APLIQUE ESTE COMANDO AGORA AO PROJETO.**
+
+Atualize a página principal do VivaLeve no projeto atual, preservando tudo o que já funciona. Não crie outro projeto e não apague o trabalho existente.
 
 ## Objetivo
 Criar e evoluir a página **VivaLeve** como uma experiência moderna de saúde, bem-estar e hábitos saudáveis. A página pode ter como contexto a ideia de emagrecimento, mas a implementação deve evitar pressão estética e não deve incentivar perda de peso, dietas restritivas ou metas corporais, especialmente para adolescentes.
@@ -19,7 +24,7 @@ Criar e evoluir a página **VivaLeve** como uma experiência moderna de saúde, 
 - Produtos ou suplementos apresentados como solução rápida.
 - Linguagem que associe valor pessoal ou beleza a um determinado corpo.
 
-## Imagem principal
+## IMAGEM PRINCIPAL — APLICAR AGORA
 Adicionar no **hero** uma fotografia/ilustração de uma **mulher adulta**, com aparência natural e expressão confiante, associada a saúde e bem-estar.
 
 A imagem deve:
@@ -42,8 +47,8 @@ Sugestão de direção visual:
 - Layout totalmente responsivo para computador e telemóvel.
 - Contraste e estados de foco adequados para acessibilidade.
 
-## Estrutura sugerida
-1. Hero com uma mensagem forte sobre saúde e bem-estar e uma imagem de mulher adulta.
+## Estrutura
+1. Hero com mensagem forte sobre saúde e bem-estar + imagem de mulher adulta.
 2. Explicação simples de como a experiência funciona.
 3. Hábitos saudáveis apresentados em cards.
 4. Benefícios relacionados a energia, rotina, sono e bem-estar.
@@ -56,10 +61,13 @@ Sugestão de direção visual:
 - Animações devem ser leves e não prejudicar desempenho ou acessibilidade.
 - Evitar componentes desnecessários que deixem a página pesada.
 
-## Regras para futuras alterações
+## Regras técnicas
 - Antes de alterar qualquer coisa, inspecionar o estado atual do repositório.
 - Preservar funcionalidades e conteúdo existentes que já estejam funcionando.
 - GitHub é a fonte de verdade do código.
 - Não substituir o projeto inteiro por uma implementação nova sem necessidade.
 - Fazer alterações pequenas, coerentes e fáceis de revisar.
 - Manter compatibilidade com a stack existente do projeto.
+
+## Resultado esperado
+**Aplicar as alterações diretamente na página existente do VivaLeve e deixar o hero com a imagem de uma mulher adulta, mantendo o design rosa + azul e a experiência responsiva.**
